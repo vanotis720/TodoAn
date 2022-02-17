@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import MdiDeleteForever from "./MdiDeleteForever";
-import SiGlyphChecked from "./SiGlyphChecked";
-import IcomoonFreeCheckboxUnchecked from "./IcomoonFreeCheckboxUnchecked";
+import MdiDeleteForever from "./Icons/MdiDeleteForever";
+import SiGlyphChecked from "./Icons/SiGlyphChecked";
+import IcomoonFreeCheckboxUnchecked from "./Icons/IcomoonFreeCheckboxUnchecked";
 
 export default class Todo extends Component {
     render() {

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Todo from "./Todo";
-import IcBaselineAddToPhotos from "./IcBaselineAddToPhotos";
+import IcBaselineAddToPhotos from "./Icons/IcBaselineAddToPhotos";
 
 class Todolist extends Component {
 	constructor(props) {
